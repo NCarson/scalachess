@@ -1759,7 +1759,7 @@ new FullOpening("E77", "King's Indian Defense: Four Pawns Attack", "rnbq1rk1/ppp
 new FullOpening("E77", "King's Indian Defense: Four Pawns Attack, Florentine Gambit", "rnbq1rk1/pp3pbp/3p1np1/2ppP3/2P2P2/2N2N2/PP2B1PP/R1BQK2R b KQ"),
 new FullOpening("E77", "King's Indian Defense: Four Pawns Attack, Normal Attack", "rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1PP2/2N2N2/PP2B1PP/R1BQK2R b KQ"),
 new FullOpening("E77", "King's Indian Defense: Six Pawns Attack", "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq"),
-new FullOpening("E77", "King's Indian Defnese: Six Pawns Attack", "r1bq1rk1/pp4bp/2nppnp1/2p5/2P1PPPP/2N5/PP2B3/R1BQK1NR b KQ"),
+new FullOpening("E77", "King's Indian Defense: Six Pawns Attack", "r1bq1rk1/pp4bp/2nppnp1/2p5/2P1PPPP/2N5/PP2B3/R1BQK1NR b KQ"),
 new FullOpening("E78", "King's Indian Defense: Four Pawns Attack, Fluid Attack", "rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP2B1PP/R1BQK2R b KQ"),
 new FullOpening("E79", "King's Indian Defense: Four Pawns Attack, Exchange Variation", "r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N1B3/PP2B1PP/R2QK2R b KQ"),
 new FullOpening("E80", "King's Indian Defense: Saemisch Variation", "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR b KQkq"),
