@@ -622,15 +622,23 @@ new FullOpening("A57", "Benko Gambit: Mutkin Countergambit", "rnbqkb1r/p2ppppp/5
 new FullOpening("A57", "Benko Gambit: Nescafe Frappe Attack", "rnbqkb1r/4pppp/3p1n2/1NpP4/1pB1P3/8/PP3PPP/R1BQK1NR b KQkq"),
 new FullOpening("A57", "Benko Gambit: Zaitsev Variation, Nescafe Frappe Attack", "rnbqkb1r/3ppppp/5n2/1NpP4/1p2P3/8/PP3PPP/R1BQKBNR b KQkq"),
 new FullOpening("A57", "Benoni Defense: Hromadka System", "rnbqkb1r/pp2pppp/3p1n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq"),
-new FullOpening("A58", "Benko Gambit Accepted: Fianchetto Variation", "rn1qk2r/4ppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQK2R b KQkq"),
+/* 
+  new FullOpening("A58", "Benko Gambit Accepted: Fianchetto Variation", "rn1qk2r/4ppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQK2R b KQkq"),
+- duplicates Benko Gambit: Fianchetto Variation with 2 more halmoves
+
+- *all* A58-59 are accepted: https://www.365chess.com/eco/A57-A59_Benko_gambit
+
+- missing canonical A58 http://www.chessgames.com/perl/chessopening?eco=a58
+*/
+new FullOpening("A58", "Benko Gambit Accepted", "rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq"),
 new FullOpening("A58", "Benko Gambit Accepted: Fully Accepted Variation", "rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq"),
-new FullOpening("A58", "Benko Gambit: Fianchetto Variation", "rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N2NP1/PP2PP1P/R1BQKB1R b KQkq"),
-new FullOpening("A58", "Benko Gambit: Nd2 Variation", "rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq"),
-new FullOpening("A58", "Benko Gambit: Zaitsev System", "rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq"),
+new FullOpening("A58", "Benko Gambit Accepted: Fianchetto Variation", "rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N2NP1/PP2PP1P/R1BQKB1R b KQkq"),
+new FullOpening("A58", "Benko Gambit Accepted: Nd2 Variation", "rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq"),
+new FullOpening("A58", "Benko Gambit Accepted: Zaitsev System", "rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq"),
 new FullOpening("A59", "Benko Gambit Accepted: King Walk Variation", "rn1q1rk1/4ppbp/3p1np1/2pP4/4P3/2N2NP1/PP3PKP/R1BQ3R b -"),
 new FullOpening("A59", "Benko Gambit Accepted: Yugoslav, with Bxf1 and Nge2", "rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N5/PP2NPPP/R1BQ1K1R b kq"),
 new FullOpening("A59", "Benko Gambit Accepted: Yugoslav, without 7...Bxf1", "rn1qkb1r/4pppp/b2p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq"),
-new FullOpening("A59", "Benko Gambit", "rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N3P1/PP3P1P/R1BQ1KNR b kq"),
+new FullOpening("A59", "Benko Gambit Accepted", "rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N3P1/PP3P1P/R1BQ1KNR b kq"),
 new FullOpening("A60", "Benoni Defense: Modern Variation", "rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq"),
 new FullOpening("A60", "Benoni Defense: Modern Variation, Snake Variation", "rnbqk2r/pp1p1ppp/3b1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq"),
 new FullOpening("A61", "Benoni Defense", "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R w KQkq"),
